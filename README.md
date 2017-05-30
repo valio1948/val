@@ -1,2 +1,2 @@
-# val
-ima istina
+# nishto
+za nishto
